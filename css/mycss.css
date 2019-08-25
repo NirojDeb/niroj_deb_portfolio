@@ -1,0 +1,119 @@
+body{background-color:#ebfffb;
+margin: 0;
+text-align: center;
+font-family: 'Merriweather', serif;}
+.top-div{background-color: #ebfffb;
+  padding-top: 100px;
+
+}
+#prog{font-weight: normal;
+}
+
+h1{
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  color: #66BFBF;
+  padding-bottom: 0;
+  margin-bottom: 0;
+
+}
+h2{
+  color: #66BFBF;
+}
+h3{
+  color:#11999E;
+}
+a{
+  color:#11999E;
+  border:2px;
+  margin:10px;
+  margin-top: 50px;
+}
+
+
+
+
+p{
+  font-family: 'Montserrat', sans-serif;
+  font-size:30px;
+  margin-top: 0;
+  border:0;
+
+}
+.top-div{
+  text-align: center;
+  position: relative;
+  margin-top: 30px;
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+
+.top-cloud{position: absolute;
+  right:200px;
+  top: 50px;
+
+}
+.bottom-cloud{
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+.mountain{
+  background-color: #ebfffb;
+}
+.skill-row{
+  width:50%;
+  margin: 100px auto 100px auto;
+  border:0 200px 0 200px;
+
+}
+
+.middle-container{
+  margin: 0;
+  padding:0;
+  }
+  .skills{
+    margin:0;
+    padding:0;
+    border: 0;
+  }
+.bottom-container{
+  padding-top: 20px;
+}
+
+.profilepic{
+  height:400px;
+  width:400px;
+  border-radius: 50%;
+  padding-top: 30px;
+}
+.python{
+  height:100px;
+  width:100px;
+  float: left;
+  margin-right: 30px;
+  padding-top: 70px;
+
+}
+.flutter{
+  float: right;
+  margin-left: 30px;
+  padding-top: 75px;
+  width: 300px;
+
+}
+#pyt{
+  padding-left: 30px;
+  padding right:30px;
+
+}
+#undr{
+  text-decoration: underline;
+}
+.btn{background-color: #6bc5d2;
+border-radius: 30%;
+border-top: 0;
+border-bottom: 0;;
+color: black;
+padding: 5px;
+margin:2px;}
